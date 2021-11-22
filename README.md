@@ -1,7 +1,7 @@
 <p>
   <pre align="center">
     <strong>Maria Pavlou </strong>
-    <a href="https://maria-paul.github.io/">Homepage</a> | <a href="https://www.instagram.com/radioactivebunnies/">Instagram</a> | <a href="https://github.com/maria-paul">GitHub</a></pre>
+    <a href="https://maria-paul.github.io/">Portfolio</a> | <a href="https://www.instagram.com/radioactivebunnies/">Instagram</a> | <a href="https://github.com/maria-paul">GitHub</a></pre>
  </p>
 
 ### Hi there 👋
